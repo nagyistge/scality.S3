@@ -34,7 +34,7 @@
     "ready-set-stream": "^1.0.0",
     "sproxydclient": "scality/sproxydclient",
     "utf8": "~2.1.1",
-    "vaultclient": "scality/vaultclient",
+    "vaultclient": "scality/vaultclient#fix/error-format",
     "werelogs": "scality/werelogs",
     "xml": "~1.0.0",
     "xml2js": "~0.4.12"
